@@ -27,5 +27,5 @@
   
 [![KDohoon's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KDohoon&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
   
-[![KDohoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDohoon&count_private=true)](https://github.com/KDohoon/github-readme-stats)
+[![KDohoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KDohoon)](https://github.com/KDohoon/github-readme-stats)
 </div>
